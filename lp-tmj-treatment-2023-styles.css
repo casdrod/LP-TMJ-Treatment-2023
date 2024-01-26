@@ -2273,6 +2273,13 @@ hr {
   #dentist h2 span {
     font-size: 20px;
   }
+  #landing-page-form .simple, #landing-page-form .btn {
+    width: 300px;
+    min-width: auto;
+  }
+  #landing-page-form .simple input, #landing-page-form .simple textarea {
+    width: 300px;
+  }
 }
 @media (max-width: 400px) {
   #banner h1 {
@@ -2440,4 +2447,4 @@ hr {
 
 .youtube.active:before, .youtube.active:after {
   display: none;
-}/*# sourceMappingURL=lp-tmj-2023-styles.css.map */
+}/*# sourceMappingURL=lp-tmj-treatment-2023-styles.css.map */
